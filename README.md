@@ -1,0 +1,1 @@
+// this is the beginning of an experimental project i will be working on, my goal is to begin working on a c++ rpg game that i will add to over time as an attempt to learn c++ as well as dive into game development
